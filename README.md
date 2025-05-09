@@ -10,7 +10,7 @@ This project implements a Pix2Pix GAN to reconstruct missing Sea Surface Tempera
   - Land mask penalty
   - Boundary continuity regularization
 - **Data**: NetCDF SST data from satellite observations  
-  Dataset: [Available on Kaggle](https://www.kaggle.com/your-dataset-link) <!-- Replace this with your actual Kaggle link -->
+  Dataset: [Available on Kaggle](https://www.kaggle.com/datasets/ambaliyagati/sst-8days-aqua-moids-data) 
 
 ## Example
 
